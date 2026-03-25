@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output/
+sample_image.png
+.venv/
+.idea/
